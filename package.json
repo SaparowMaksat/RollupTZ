@@ -11,8 +11,11 @@
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
-	"dependencies": {
-		"rollup": "^3.8.1",
-		"rollup-plugin-server": "^0.7.0"
+	"devDependencies": {
+		"@rollup/plugin-babel": "^6.0.3",
+		"@rollup/pluginutils": "^5.0.2",
+		"rollup-plugin-img": "^1.1.0",
+		"rollup-plugin-serve": "^2.0.2",
+		"rollup-plugin-styles": "^4.0.0"
 	}
 }
