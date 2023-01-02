@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@SaparowMaksat 
-SaparowMaksat
-/
-Kursovaya
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Kursovaya/.gitignore
-
-Maksat LogIn && SignUp
-Latest commit bfa0659 on Oct 22
- History
- 1 contributor
-22 lines (18 sloc)  235 Bytes
-
 #dependencies
 /node_modules
 /.pnp
@@ -50,18 +20,3 @@ Latest commit bfa0659 on Oct 22
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Kursovaya/.gitignore at main · SaparowMaksat/Kursovaya
